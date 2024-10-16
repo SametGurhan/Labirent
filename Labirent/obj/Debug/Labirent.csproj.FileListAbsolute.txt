@@ -1,0 +1,10 @@
+C:\Users\samet\Desktop\ConsoleAppDersleri\CanBoz_udemy_csharp\Labirent\bin\Debug\Labirent.exe.config
+C:\Users\samet\Desktop\ConsoleAppDersleri\CanBoz_udemy_csharp\Labirent\bin\Debug\Labirent.exe
+C:\Users\samet\Desktop\ConsoleAppDersleri\CanBoz_udemy_csharp\Labirent\bin\Debug\Labirent.pdb
+C:\Users\samet\Desktop\ConsoleAppDersleri\CanBoz_udemy_csharp\Labirent\obj\Debug\Labirent.csproj.AssemblyReference.cache
+C:\Users\samet\Desktop\ConsoleAppDersleri\CanBoz_udemy_csharp\Labirent\obj\Debug\Labirent.Form1.resources
+C:\Users\samet\Desktop\ConsoleAppDersleri\CanBoz_udemy_csharp\Labirent\obj\Debug\Labirent.Properties.Resources.resources
+C:\Users\samet\Desktop\ConsoleAppDersleri\CanBoz_udemy_csharp\Labirent\obj\Debug\Labirent.csproj.GenerateResource.cache
+C:\Users\samet\Desktop\ConsoleAppDersleri\CanBoz_udemy_csharp\Labirent\obj\Debug\Labirent.csproj.CoreCompileInputs.cache
+C:\Users\samet\Desktop\ConsoleAppDersleri\CanBoz_udemy_csharp\Labirent\obj\Debug\Labirent.exe
+C:\Users\samet\Desktop\ConsoleAppDersleri\CanBoz_udemy_csharp\Labirent\obj\Debug\Labirent.pdb
