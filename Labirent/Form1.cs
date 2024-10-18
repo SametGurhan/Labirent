@@ -7,14 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.TextBox;
 
 namespace Labirent
 {
     public partial class Form1 : Form
     {
 
-        System.Media.SoundPlayer startSoundPlayer = new System.Media.SoundPlayer(@"C:\Users\samet\Desktop\TWİTCH malzemeleri\wav\ritim1.wav");
-        System.Media.SoundPlayer endSoundPlayer = new System.Media.SoundPlayer(@"C:\Users\samet\Desktop\TWİTCH malzemeleri\wav\crash.ses.efekt.wav");
+        System.Media.SoundPlayer startSoundPlayer = new System.Media.SoundPlayer(@"C:\Users\samet\Desktop\Örnek ses ve görüntü\nebula-dreams.wav");
+        System.Media.SoundPlayer endSoundPlayer = new System.Media.SoundPlayer(@"C: \Users\samet\Desktop\Örnek ses ve görüntü\won.wav");
         public Form1()
         {
             InitializeComponent();
@@ -60,6 +61,11 @@ namespace Labirent
             lbl_Puan.Text = sayac.ToString();
             
             
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

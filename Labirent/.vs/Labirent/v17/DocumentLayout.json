@@ -1,12 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\samet\\Desktop\\ConsoleAppDersleri\\CanBoz_udemy_csharp\\Labirent\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9E73A3-D23B-4C43-AE49-548F1AF52F55}|Labirent.csproj|c:\\users\\samet\\desktop\\consoleappdersleri\\canboz_udemy_csharp\\labirent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A9E73A3-D23B-4C43-AE49-548F1AF52F55}|Labirent.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A9E73A3-D23B-4C43-AE49-548F1AF52F55}|Labirent.csproj|C:\\Users\\samet\\Desktop\\ConsoleAppDersleri\\CanBoz_udemy_csharp\\Labirent\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A9E73A3-D23B-4C43-AE49-548F1AF52F55}|Labirent.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\samet\\Desktop\\ConsoleAppDersleri\\CanBoz_udemy_csharp\\Labirent\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\samet\\Desktop\\ConsoleAppDersleri\\CanBoz_udemy_csharp\\Labirent\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:49:20.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\samet\\Desktop\\ConsoleAppDersleri\\CanBoz_udemy_csharp\\Labirent\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\samet\\Desktop\\ConsoleAppDersleri\\CanBoz_udemy_csharp\\Labirent\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:49:16.594Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
